@@ -1,2 +1,7 @@
-# FullStack2Assignment
-This repo will have all my assignment , orgranized in different folders
+This repo contains some boilerplate to get you started in Node with Express
+
+`npm i`
+
+`npm i -g nodemon`
+
+`nodemon server.js`
